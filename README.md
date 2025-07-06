@@ -2,7 +2,7 @@
 
 La herramienta de análisis de rendimiento definitiva para atletas de Boxeo, MMA y otros deportes de combate. Creada por un luchador, para luchadores.
 
-![Captura de pantalla de Kaesar Stats Sports](https://i.imgur.com/tu-enlace-de-captura.png)
+![Captura de pantalla de Kaesar Stats Sports](https://cdn.discordapp.com/attachments/1390704865998799000/1391390157382619238/image.png?ex=686bb890&is=686a6710&hm=51740d14d23ff65bb1d0ab9e08a38c5d07b85575dfaf999cc493f53c2839489a&)
 *(Nota: Sube una captura de pantalla de la v1.8 a un sitio como Imgur y reemplaza el enlace de arriba)*
 
 ---
